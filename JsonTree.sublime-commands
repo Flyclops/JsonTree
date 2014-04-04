@@ -1,3 +1,3 @@
 [
-	{ "command": "json_tree", "caption": "JsonTree: show" }
+	{ "command": "json_tree", "caption": "JsonTree: Show Tree" }
 ]
