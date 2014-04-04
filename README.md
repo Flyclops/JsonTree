@@ -30,6 +30,10 @@ Screenshot
 Versions
 =========
 
+0.1.2
+-----
+Add Sublime Command for use in Command Palette (thanks @vanntastic)
+
 0.1.1
 -----
 Initial release

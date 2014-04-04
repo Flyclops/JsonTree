@@ -1,7 +1,7 @@
 import sublime, sublime_plugin, json
 from collections import OrderedDict
 
-__version__ = '0.1.1'
+__version__ = '0.1.2'
 
 class JsonTreeCommand(sublime_plugin.TextCommand):
     def run(self, edit):
